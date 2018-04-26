@@ -189,11 +189,7 @@ Output:
 Visualization:
 ![](https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/riskyvsnonrisky.jpg)
  
-
-Report : 
-
-https://github.com/rashmitripathi/TwitterTrendAnalysis_BigData/blob/master/documentation/Phase%203/PB-Team%2018%20Phase%203.pdf
-
+ 
 Demo
 
 https://www.youtube.com/watch?v=pidOWRspl04
